@@ -17,8 +17,13 @@ PySparka, AWS RDS database, and pgAdmin are used in this project. Dataset: Video
 -What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 51% of Vine reviews were 5 stars, 38% non-Vine reviews were 5 stars
 
+![img1](https://github.com/siqiou/Amazon_Reviews/blob/167c83bc0edba9cbc54a2cc661de10242b55a0df/images/paid_members.png)
+![img2](https://github.com/siqiou/Amazon_Reviews/blob/167c83bc0edba9cbc54a2cc661de10242b55a0df/images/unpaid_members.png)
+
 ## Summary
 The percentage of 5 star reviews are 13% higher among Vine members, there seems to be bias for the reviews. However the sample size of Vine members are quite small comparing to the total number of non-Vinew reviews, we are going to test if the same pattern exists in 4 star reviews to get a bigger picture.
+
+![img3](https://github.com/siqiou/Amazon_Reviews/blob/167c83bc0edba9cbc54a2cc661de10242b55a0df/images/four_star_reviews.png)
 
 The percentage of 4 star reviews dropped for both groups, 25% in Vine members and 16% in non-Vine members. This number indicates that bias still exists in Vine members.
 
